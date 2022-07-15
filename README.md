@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Brenno at @sSnorlax
+- 🌱 I’m currently studying to be a good QA
+- 📫 You can also reach from [my LinkedIn](https://www.linkedin.com/in/brenno-correa/)

@@ -10,17 +10,25 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 
 <br>
 
-current studying<br>
-![Git](https://img.shields.io/badge/-Git-black?styleflat&logo=git)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-black?styleflat&logo=JSON)
+<img src="https://img.shields.io/badge/-current_studying-gray"><br>
+![Git](https://img.shields.io/badge/-Git-black?styleflat&logo=git)
+![Java](https://img.shields.io/badge/-Java-black?styleflat&logo=java)
 ![Postman](https://img.shields.io/badge/-Postman-black?styleflat&logo=postman)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?styleflat&logo=selenium)
 ![Linux](https://img.shields.io/badge/-Linux-black?styleflat&logo=linux)
 ![Apache](https://img.shields.io/badge/-Apache_Kafka-black?styleflat&logo=apache)
 
+<img src="https://img.shields.io/badge/-proficiences-gray"><br>
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?styleflat&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-black?styleflat&logo=adobeillustrator)
+![InDesign](https://img.shields.io/badge/-InDesign-black?styleflat&logo=adobeindesign)
+![InDesign](https://img.shields.io/badge/-Xd-black?styleflat&logo=adobexd)
+![Figma](https://img.shields.io/badge/-Figma-black?styleflat&logo=figma)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-black?styleflat&logo=autodesk)
+
 <br>
 
-where you can find me<br>
+where you can find me <br>
 <a href="https://www.linkedin.com/in/brenno-correa/">
   <img align="center" src="https://img.shields.io/badge/-brenno--correa-blue?style=flat&logo=linkedin">
 </a>

@@ -13,7 +13,7 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 <a href="https://www.linkedin.com/in/brenno-correa/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-brenno--correa-blue?style=flat&logo=linkedin">
 </a>
-<a href="https://www.instagram.com/obrennoquenaoteminsta/" target="_blank">
+<a href="https://www.instagram.com/abq_brenno/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-abq__brenno-white?style=flat&logo=instagram">
 </a>
 <a href="https://www.twitter.com/abq_brenno/" target="_blank">

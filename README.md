@@ -21,7 +21,7 @@ current studying<br>
 <br>
 
 where you can find me<br>
-<a href="https://www.linkedin.com/in/brenno-correa/" target="_blank">
+<a href="https://www.linkedin.com/in/brenno-correa/">
   <img align="center" src="https://img.shields.io/badge/-brenno--correa-blue?style=flat&logo=linkedin">
 </a>
 <a href="https://www.instagram.com/abq_brenno/" target="_blank">

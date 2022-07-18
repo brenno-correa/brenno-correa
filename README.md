@@ -10,6 +10,17 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 
 <br>
 
+current studying<br>
+![Git](https://img.shields.io/badge/-Git-black?styleflat&logo=git)
+![JSON](https://img.shields.io/badge/-JSON-black?styleflat&logo=JSON)
+![Postman](https://img.shields.io/badge/-Postman-black?styleflat&logo=postman)
+![Selenium](https://img.shields.io/badge/-Selenium-black?styleflat&logo=selenium)
+![Linux](https://img.shields.io/badge/-Linux-black?styleflat&logo=linux)
+![Apache](https://img.shields.io/badge/-Apache_Kafka-black?styleflat&logo=apache)
+
+<br>
+
+where you can find me<br>
 <a href="https://www.linkedin.com/in/brenno-correa/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-brenno--correa-blue?style=flat&logo=linkedin">
 </a>

@@ -15,7 +15,7 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 ![Git](https://img.shields.io/badge/-Git-black?styleflat&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?styleflat&logo=postman)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?styleflat&logo=selenium)
-![Linux](https://img.shields.io/badge/-Linux-black?styleflat&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-black?styleflat&logo=linux)<br>
 ![Apache](https://img.shields.io/badge/-Apache_Kafka-black?styleflat&logo=apache)
 ![JUnit5](https://img.shields.io/badge/-JUnit_5-black?styleflat&logo=junit5)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?styleflat&logo=gradle)
@@ -24,7 +24,7 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 <img src="https://img.shields.io/badge/-proficiences-gray"><br>
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?styleflat&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-black?styleflat&logo=adobeillustrator)
-![InDesign](https://img.shields.io/badge/-InDesign-black?styleflat&logo=adobeindesign)
+![InDesign](https://img.shields.io/badge/-InDesign-black?styleflat&logo=adobeindesign)<br>
 ![InDesign](https://img.shields.io/badge/-Xd-black?styleflat&logo=adobexd)
 ![Figma](https://img.shields.io/badge/-Figma-black?styleflat&logo=figma)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-black?styleflat&logo=autodesk)

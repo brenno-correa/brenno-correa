@@ -11,7 +11,7 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 <br>
 
 current studying<br>
-![Git](https://img.shields.io/badge/-Git-black?styleflat&logo=git)
+![Git](https://img.shields.io/badge/-Git-black?styleflat&logo=git)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-black?styleflat&logo=JSON)
 ![Postman](https://img.shields.io/badge/-Postman-black?styleflat&logo=postman)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?styleflat&logo=selenium)
@@ -24,9 +24,9 @@ where you can find me<br>
 <a href="https://www.linkedin.com/in/brenno-correa/">
   <img align="center" src="https://img.shields.io/badge/-brenno--correa-blue?style=flat&logo=linkedin">
 </a>
-<a href="https://www.instagram.com/abq_brenno/" target="_blank">
+<a href="https://www.instagram.com/abq_brenno/">
   <img align="center" src="https://img.shields.io/badge/-abq__brenno-white?style=flat&logo=instagram">
 </a>
-<a href="https://www.twitter.com/abq_brenno/" target="_blank">
+<a href="https://www.twitter.com/abq_brenno/">
   <img align="center" src="https://img.shields.io/badge/-abq__brenno-white?style=flat&logo=twitter">
 </a>

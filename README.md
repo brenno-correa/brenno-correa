@@ -16,7 +16,7 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 ![Postman](https://img.shields.io/badge/-Postman-black?styleflat&logo=postman)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?styleflat&logo=selenium)
 ![Linux](https://img.shields.io/badge/-Linux-black?styleflat&logo=linux)<br>
-![Apache](https://img.shields.io/badge/-Apache_Kafka-black?styleflat&logo=apache)
+![Apache](https://img.shields.io/badge/-Apache_Kafka-black?styleflat&logo=apachekafka)
 ![JUnit5](https://img.shields.io/badge/-JUnit_5-black?styleflat&logo=junit5)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?styleflat&logo=gradle)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?styleflat&logo=mysql)

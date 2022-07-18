@@ -30,8 +30,6 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-black?styleflat&logo=autodesk)
 ![Excel](https://img.shields.io/badge/-Excel-black?logoColor=1d6f42&?styleflat&logo=microsoftexcel)
 
-<br><br>
-
 <img src="https://img.shields.io/badge/-where_you_can_find_me-gray"><br>
 <a href="https://www.linkedin.com/in/brenno-correa/">
   <img align="center" src="https://img.shields.io/badge/-brenno--correa-blue?style=flat&logo=linkedin">

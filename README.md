@@ -19,7 +19,7 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 ![Apache](https://img.shields.io/badge/-Apache_Kafka-black?styleflat&logo=apachekafka)
 ![JUnit5](https://img.shields.io/badge/-JUnit_5-black?styleflat&logo=junit5)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?styleflat&logo=gradle)
-![MySQL](https://img.shields.io/badge/-MySQL-black?styleflat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?logoColor=white&?styleflat&logo=mysql)
 
 <img src="https://img.shields.io/badge/-proficiences-gray"><br>
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?styleflat&logo=adobephotoshop)
@@ -28,7 +28,7 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 ![InDesign](https://img.shields.io/badge/-Xd-black?styleflat&logo=adobexd)
 ![Figma](https://img.shields.io/badge/-Figma-black?styleflat&logo=figma)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-black?styleflat&logo=autodesk)
-![Excel](https://img.shields.io/badge/-Excel-black?styleflat&logo=microsoftexcel)
+![Excel](https://img.shields.io/badge/-Excel-black?logoColor=1d6f42&?styleflat&logo=microsoftexcel)
 
 <br>
 

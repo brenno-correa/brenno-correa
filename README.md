@@ -11,15 +11,12 @@ I have vast knowledge in image enhancing/editing, compositions and some web desi
 <br>
 
 <img src="https://img.shields.io/badge/-current_studying-gray"><br>
-![Java](https://img.shields.io/badge/-Java-black?styleflat&logo=java)
-![Git](https://img.shields.io/badge/-Git-black?styleflat&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?styleflat&logo=postman)
-![Selenium](https://img.shields.io/badge/-Selenium-black?styleflat&logo=selenium)
-![Linux](https://img.shields.io/badge/-Linux-black?styleflat&logo=linux)<br>
+![Gradle](https://img.shields.io/badge/-Gradle-black?styleflat&logo=gradle)
+![Selenium](https://img.shields.io/badge/-Selenium-black?styleflat&logo=selenium)<br>
 ![Apache](https://img.shields.io/badge/-Apache_Kafka-black?styleflat&logo=apachekafka)
 ![JUnit5](https://img.shields.io/badge/-JUnit_5-black?styleflat&logo=junit5)
-![Gradle](https://img.shields.io/badge/-Gradle-black?styleflat&logo=gradle)
-![MySQL](https://img.shields.io/badge/-MySQL-black?logoColor=white&?styleflat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?styleflat&logo=git)
 
 <img src="https://img.shields.io/badge/-proficiences-gray"><br>
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?styleflat&logo=adobephotoshop)
